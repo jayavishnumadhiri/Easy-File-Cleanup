@@ -15,8 +15,11 @@ This PowerShell script, offers a streamlined solution for deleting the Un-necess
 # Features:
 
 •	Efficiently identifies and lists files older than a year in a specified directory.
-•	Provides a user-friendly interface to select files for deletion based on their indexes.
+
+•	Provides a user-friendly interface to select files for deletion based on their indexes
+
 •	Calculates and displays the total memory that will be freed up by deleting the unnecessary files.
+
 •	Implements safety measures by previewing the deletion operation without actually executing it (-WhatIf parameter).
 
 # How to Use:
