@@ -38,7 +38,7 @@ $data | ForEach-Object {
         
        $mem +=$_.fileSize_mb
        
-        Remove-Item -Path $_.path -Force -WhatIf  # Remove -whatIf To delete the files 
+        Remove-Item -Path $_.path -Force 
    
    } 
   
