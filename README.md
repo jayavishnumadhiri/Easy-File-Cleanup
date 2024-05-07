@@ -25,8 +25,7 @@ This PowerShell script, offers a streamlined solution for deleting the Un-necess
 2.	Review the listed files and their corresponding indices.
 3.	Input the indices of the files you wish to retain, separated by commas.
 4.	The script will calculate the memory to be freed up and preview the deletion operation.
-5.	Remove -whatIf To delete the files 
-6.	Confirm the operation to free up the specified memory.
+5.	Confirm the operation to free up the specified memory.
    
 Note: This script is designed for Windows environments and requires PowerShell to run. Be cautious when deleting files, as the operation cannot be undone.
 
